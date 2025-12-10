@@ -43,7 +43,9 @@ Apache PDFBox
 
 Spring Data JPA
 
-H2 / MySQL
+MySQL
+
+Maven
 
 Swagger (Springdoc OpenAPI)
 
