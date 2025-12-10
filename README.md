@@ -49,22 +49,10 @@ Maven
 
 Swagger (Springdoc OpenAPI)
 
-▶️ How It Works
 
-User uploads a filled FNOL form (PDF)
 
-System extracts raw text
 
-Claim fields are auto-detected
 
-Missing fields validated
-
-Routing logic determines correct processing queue
-
-Claim is stored for backend processing
-
-📘 Swagger URL
-http://localhost:8080/swagger-ui.html
 
 🚀 How to Start & Run the FNOL Claims Automation Project
 
